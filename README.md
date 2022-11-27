@@ -5,7 +5,7 @@ A simple light/dark site theme switcher.
 https://maxweb.kz/toggle-dark-theme/
 
 # Features
-- 2 modes: light and dark
+- 2 modes only: light and dark
 - the selected mode is stored in LocalStorage ("dark-mode" variable) and used the next time the site is loaded.
 - when the site is loaded for the first time, the mode settings are taken from the browser settings
 - uses the `<meta name="theme-color" content="">` to style the browser (more info: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name/theme-color)
