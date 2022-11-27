@@ -1,5 +1,6 @@
 # vue-toggle-dark-theme
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/shtekleinmax/vue-toggle-dark-theme/blob/main/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/shtekleinmax/vue-toggle-dark-theme/blob/main/README.ru.md)
 
 Простой переключатель тёмной/светлой темы
 
