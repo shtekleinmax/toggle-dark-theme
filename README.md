@@ -24,10 +24,10 @@ https://maxweb.kz/toggle-dark-theme/
 `<toggle-dark-theme
       :buttons = '{
           dark: "Enable dark theme",
-          light: "Enable light theme",
+          light: "Enable light theme"
       }'
       :colors = '{
           dark: "#0b2137",
-          light: "#ffffff",
+          light: "#ffffff"
       }'
   />`
