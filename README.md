@@ -24,7 +24,8 @@ https://maxweb.kz/toggle-dark-theme/
 | colors        | Object        | {dark: "#0b2137", light": "#ffffff"} | Сolor for each mode. Used in the meta tag `<meta name="theme-color" content="">` |
 
 # Example
-`<toggle-dark-theme
+```JS
+<toggle-dark-theme
       :buttons = '{
           dark: "Enable dark theme",
           light: "Enable light theme"
@@ -33,4 +34,5 @@ https://maxweb.kz/toggle-dark-theme/
           dark: "#0b2137",
           light: "#ffffff"
       }'
-  />`
+  />
+```
